@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.TanQuery.Busquedas" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Busquedas.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="273" x="-11" y="-395"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.TanQuery.Valores" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Valores.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="569" width="322" x="414" y="-395"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.TanQuery.ConectorBD" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/ConectorBD.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="270" x="-123" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.TanQuery.Intervalo" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Intervalo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="109" x="187" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.TanQuery.Operadores" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Operadores.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="299" width="233" x="336" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.TanQuery.Token" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Token.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="371" width="293" x="887" y="1201"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.TanQuery.ArbolConsulta" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Token.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="461" width="257" x="609" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.TanQuery.Configuration" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Configuration.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="299" width="178" x="948" y="700"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.TanQuery.Consulta" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Consulta.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="785" width="331" x="887" y="1662"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.TanQuery.Log" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/Log.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1483" y="206"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.TanQuery.TanQuery" project="Prototipo2018" 
+    file="/Prototipo2018/src/com/TanQuery/TanQuery.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1055" width="218" x="887" y="-395"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="12">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="13" name="log"/>      
+      <multiplicity id="14" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="15">    
+    <bendpoint x="706" y="477"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="16" name="operadores"/>      
+      <multiplicity id="17" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="18">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="19" name="arbolConsul"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <bendpoint x="904" y="919"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="22" name="raiz"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="25" name="derecha"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <bendpoint x="6" y="252"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="28" name="conex"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <bendpoint x="1158" y="1594"/>    
+    <bendpoint x="1202" y="1594"/>    
+    <bendpoint x="1276" y="1543"/>    
+    <bendpoint x="1277" y="1505"/>    
+    <bendpoint x="1197" y="1500"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="31" name="hijoDer"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <bendpoint x="237" y="407"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="34" name="intervalos"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <bendpoint x="448" y="444"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="37" name="oper_comp"/>      
+      <multiplicity id="38" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <bendpoint x="1260" y="687"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="40" name="tokens"/>      
+      <multiplicity id="41" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <bendpoint x="1136" y="1616"/>    
+    <bendpoint x="1333" y="1611"/>    
+    <bendpoint x="1327" y="1448"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="43" name="tokensTocados"/>      
+      <multiplicity id="44" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <bendpoint x="736" y="1409"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="46" name="raiz"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <bendpoint x="1147" y="1605"/>    
+    <bendpoint x="1307" y="1599"/>    
+    <bendpoint x="1298" y="1488"/>    
+    <bendpoint x="1204" y="1469"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="49" name="atributos"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="52" name="padre"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <bendpoint x="1125" y="1627"/>    
+    <bendpoint x="1363" y="1626"/>    
+    <bendpoint x="1353" y="1369"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="55" name="hijoIzq"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="58" name="getDatos"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
